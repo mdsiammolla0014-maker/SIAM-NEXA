@@ -1,0 +1,6 @@
+{
+  "name": "SIAM NEXA",
+  "description": "Micro-Job and Earning platform with daily tasks, deposits, and rewards",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
